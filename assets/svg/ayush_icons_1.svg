@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="ayush_icons-08" data-name="ayush icons-08" transform="translate(0.099 -0.06)">
+    <circle id="Ellipse_198" data-name="Ellipse 198" cx="16" cy="16" r="16" transform="translate(-0.099 0.06)" fill="#e2eafd"/>
+    <path id="Path_44775" data-name="Path 44775" d="M11.4,8.22c0,.053-.071.062-.1,0Z" transform="translate(-1.452 -0.963)" fill="#747171"/>
+    <path id="Path_44776" data-name="Path 44776" d="M12.417,8.27a.08.08,0,0,1-.1,0Z" transform="translate(-1.572 -0.969)" fill="#555252"/>
+    <path id="Path_44777" data-name="Path 44777" d="M12.43,8.27h.1A.353.353,0,0,1,12.43,8.27Z" transform="translate(-1.585 -0.969)" fill="#6a6767"/>
+    <g id="Group_5505" data-name="Group 5505" transform="translate(7.539 10.866)">
+      <path id="Path_44767" data-name="Path 44767" d="M8.011,1.164,0,0V7.4l8.011-.937Z" transform="translate(0 2.989)" fill="#274a8d"/>
+      <path id="Path_44768" data-name="Path 44768" d="M7.429,1.077,0,0V6.848l7.429-.867Z" transform="translate(0.514 3.367)" fill="#fff"/>
+      <path id="Path_44765" data-name="Path 44765" d="M0,1.581,10.884,0V10.054L0,8.782Z" transform="translate(5.84)" fill="#274a8d"/>
+      <path id="Path_44766" data-name="Path 44766" d="M0,1.463,10.093,0V9.3L0,8.127Z" transform="translate(5.933 0.513)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

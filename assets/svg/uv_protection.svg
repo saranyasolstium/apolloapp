@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="Group_5512" data-name="Group 5512" transform="translate(-162 -1618)">
+    <circle id="Ellipse_216" data-name="Ellipse 216" cx="18" cy="18" r="18" transform="translate(162 1618)" fill="#e9e9e9" opacity="0.4"/>
+    <path id="CarbonUvIndexAlt" d="M9.071,20H6.5a1.288,1.288,0,0,1-1.286-1.286V13.571H6.5v5.143H9.071V13.571h1.286v5.143A1.288,1.288,0,0,1,9.071,20Zm7.714-6.429H15.661l-1.446,5.806-1.419-5.806H11.643L13.25,20h1.929ZM10.357,2h1.286V5.214H10.357Zm4.3,4.436L16.91,4.182l.909.909L15.566,7.345Zm2.129,3.921H20v1.286H16.786ZM2,10.357H5.214v1.286H2ZM4.182,5.091l.909-.909L7.345,6.436l-.91.909Zm10.675,6.552H13.571V11a2.571,2.571,0,1,0-5.143,0v.643H7.143V11a3.857,3.857,0,1,1,7.714,0Z" transform="translate(169 1625)" fill="#adaeae"/>
+  </g>
+</svg>

@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "622778374424",
+    "project_id": "infinite-d16fc",
+    "storage_bucket": "infinite-d16fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622778374424:android:bcd344bad4cbfdb4f1e66d",
+        "android_client_info": {
+          "package_name": "com.infinite.infinite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622778374424-6l5hv1fsmhuujcqrnj500pbtp62asmjv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infinite.infinite",
+            "certificate_hash": "a3aae768f6a3d22d2dec75ade4621eac2596e80d"
+          }
+        },
+        {
+          "client_id": "622778374424-idg3opdq4pvdqe20okj94gqnarojpt0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt-8n73kA85C8HnhDrAOHCC1okK4J6evg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622778374424-7cmvfm6hv56cn39r66d4k18r81nkt9co.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "622778374424-o7fs0umr5d2rj2qk1ivqfc630eithbpq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.infinite.infinite"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="60" viewBox="0 0 100 60">
+  <g id="Group_5389" data-name="Group 5389" transform="translate(-350 -96)">
+    <g id="Rectangle_2001" data-name="Rectangle 2001" transform="translate(350 96)" fill="#e2eafd" stroke="#2e478d" stroke-width="0.5">
+      <rect width="100" height="60" rx="5" stroke="none"/>
+      <rect x="0.25" y="0.25" width="99.5" height="59.5" rx="4.75" fill="none"/>
+    </g>
+    <text id="Chat_with_us" data-name="Chat with us" transform="translate(398 147)" fill="#2e478d" font-size="10" font-family="RedHatText-Regular, Red Hat Text"><tspan x="-27" y="0">Chat with us</tspan></text>
+    <g id="Group_5388" data-name="Group 5388" transform="translate(-2168 -912)">
+      <circle id="Ellipse_214" data-name="Ellipse 214" cx="16" cy="16" r="16" transform="translate(2552 1013)" fill="#fff"/>
+      <path id="forum_FILL1_wght400_GRAD0_opsz48" d="M80,190.493V177.079a1.069,1.069,0,0,1,.334-.72.956.956,0,0,1,.694-.36H94.364a.991.991,0,0,1,.719.347,1.049,1.049,0,0,1,.334.732v9.148a1.069,1.069,0,0,1-.334.719.977.977,0,0,1-.719.36H84.111l-3.443,3.443a.38.38,0,0,1-.668-.257Zm5.165,1.953a1,1,0,0,1-.707-.36,1.052,1.052,0,0,1-.347-.719v-2.518H96.959v-8.737h2.57a.956.956,0,0,1,.694.36,1.092,1.092,0,0,1,.334.745v14.39a.38.38,0,0,1-.668.257l-3.418-3.418Z" transform="translate(2477.722 843)" fill="#27488f"/>
+      <path id="Path_44804" data-name="Path 44804" d="M2559.1,1021.491h9.165" transform="translate(1)" fill="none" stroke="#e2eafd" stroke-linecap="round" stroke-width="0.5"/>
+      <path id="Path_44805" data-name="Path 44805" d="M2559.1,1021.491h5.7" transform="translate(1 2)" fill="none" stroke="#e2eafd" stroke-linecap="round" stroke-width="0.5"/>
+      <path id="Path_44806" data-name="Path 44806" d="M2559.1,1021.491h6.4" transform="translate(1 4)" fill="none" stroke="#e2eafd" stroke-linecap="round" stroke-width="0.5"/>
+    </g>
+  </g>
+</svg>
