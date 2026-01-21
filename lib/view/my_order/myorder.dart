@@ -126,21 +126,15 @@ class _MyOrderState extends State<MyOrder> {
   void getLastWeek() {
     try {
       var today = DateTime.now();
-
-      // Calculate the end date of last week (last Sunday)
       var lastSunday = today.subtract(Duration(days: today.weekday));
-      // Calculate the start date of last week (previous Sunday)
       var lastMonday = lastSunday.subtract(Duration(days: 7));
 
       List<OrderModel> lastWeekOrders = myOrderList.where((order) {
         if (order.processedAt != null) {
           debugPrint("Processed At: ${order.processedAt}");
           try {
-            // Parse the date using the defined format
             var processedDate =
                 DateFormat("dd MMMM yyyy").parse(order.processedAt!);
-
-            // Check if processedDate is between lastMonday and lastSunday
             return processedDate.isAfter(lastMonday) &&
                 processedDate.isBefore(lastSunday);
           } catch (e) {
